@@ -1,0 +1,11 @@
+官方文档
+http://spritejs.com/#/
+
+API速查
+http://www.openi.cn/read/spritejs-v3/zh-cn-index.md
+
+SVG和SVG动画
+https://zhuanlan.zhihu.com/p/31242043
+
+SVG渐变
+https://zhuanlan.zhihu.com/p/69553595
