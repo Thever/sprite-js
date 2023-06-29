@@ -1,0 +1,7 @@
+//  处理画布
+    paint() {
+      this.getLayer.attr('transform', `translate(${this.offset.x}, ${this.offset.y})`)
+      this.getLayer.attr({
+        scale: [this.scale, this.scale]
+      })
+    }
